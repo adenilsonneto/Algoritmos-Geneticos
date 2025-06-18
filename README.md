@@ -1,5 +1,5 @@
-# Algoritmos-Gen-ticos
-Seminário sobre os Algoritmos Genéticos
+# Algoritmos-Genéticos
+Seminário sobre os Algoritmos Genéticos(GAs)
 
 Problema: Criar uma função para achar o numero mais próximo de 7 entro os números 0 e 15
 
