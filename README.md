@@ -16,6 +16,7 @@ A funçào "crossover" combina dois pais e fazem a média inteira para achar um 
 ![image](https://github.com/user-attachments/assets/2a60bd57-e9a8-4ccd-b1a5-340c8dcde0a3)
 
 A função "mutacao" causa um acrescimo ou decrescimo (+1 ou -1) no número com 30% de chance de ocorrer
+
 ![image](https://github.com/user-attachments/assets/fb3e77ab-bc1c-4469-bd5b-656bcc555f57)
 
 Criar uma população inicial
