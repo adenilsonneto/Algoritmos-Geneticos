@@ -15,7 +15,7 @@ A funçào "crossover" combina dois pais e fazem a média inteira para achar um 
 
 ![image](https://github.com/user-attachments/assets/2a60bd57-e9a8-4ccd-b1a5-340c8dcde0a3)
 
-A função "mutacao" causa um acrescimo ou decrescimo (+1 ou -1) no número com 30% de chance de ocorrer
+A função "mutacao" causa um acréscimo ou decréscimo (+1 ou -1, 50% de chance cada) no número com 30% de chance de ocorrer
 
 ![image](https://github.com/user-attachments/assets/fb3e77ab-bc1c-4469-bd5b-656bcc555f57)
 
@@ -28,7 +28,7 @@ Dentro do loop de gerações, ocorre a avaliação do "fitness" e seleciona os d
 
 ![image](https://github.com/user-attachments/assets/82133f58-b424-4f65-9d67-5612ccd86bc0)
 
-Gera dois filhos com chances de mutaçoes dos valores com melhor "fitness"
+Gera dois filhos com chances de mutações dos valores com melhor "fitness"
 
 ![image](https://github.com/user-attachments/assets/90c30c85-4e88-4041-afc1-2fbe4bec83aa)
 
@@ -44,7 +44,7 @@ Exemplo de Resutlado final
 
 ![image](https://github.com/user-attachments/assets/0545becf-c3c4-4c63-91b2-8de811b6edab)
 
-Plotegem de grafo para exemplo aleatorio
+Plot de Grafo para exemplo aleatório utilizando o Graphviz Online
 
 ![image](https://github.com/user-attachments/assets/6478b0b7-db13-455f-adbf-381851ecd7bc)
 
