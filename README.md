@@ -40,7 +40,11 @@ Mostrar a geração da populaçao em cada nivel devido a estar dentro do loop
 ![image](https://github.com/user-attachments/assets/24fd453f-5908-4e8f-951d-645d47fccc6c)
 
 
-Resultado final
+Imprimir o resultado final
 
 ![image](https://github.com/user-attachments/assets/52d43084-9c56-44f6-9527-adbfa322e400)
+
+Exemplo de Resutlado final
+
+![image](https://github.com/user-attachments/assets/0545becf-c3c4-4c63-91b2-8de811b6edab)
 
