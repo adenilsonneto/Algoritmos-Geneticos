@@ -30,6 +30,7 @@ Dentro do loop de gerações, ocorre a avaliação do "fitness" e seleciona os d
 
 
 Gera dois filhos com chances de mutaçoes dos valores com melhor "fitness"
+
 ![image](https://github.com/user-attachments/assets/90c30c85-4e88-4041-afc1-2fbe4bec83aa)
 
 
