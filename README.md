@@ -22,6 +22,7 @@ A função "mutacao" causa um acrescimo ou decrescimo (+1 ou -1) no número com 
 
 
 Criar uma população inicial
+
 ![image](https://github.com/user-attachments/assets/17842feb-d8f6-4771-aae1-96b44d1dd0e6)
 
 
@@ -35,9 +36,11 @@ Gera dois filhos com chances de mutaçoes dos valores com melhor "fitness"
 
 
 Mostrar a geração da populaçao em cada nivel devido a estar dentro do loop
+
 ![image](https://github.com/user-attachments/assets/24fd453f-5908-4e8f-951d-645d47fccc6c)
 
 
 Resultado final
+
 ![image](https://github.com/user-attachments/assets/52d43084-9c56-44f6-9527-adbfa322e400)
 
