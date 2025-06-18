@@ -48,3 +48,8 @@ Exemplo de Resutlado final
 
 ![image](https://github.com/user-attachments/assets/0545becf-c3c4-4c63-91b2-8de811b6edab)
 
+Plotegem de grafo para exemplo aleatorio
+
+![image](https://github.com/user-attachments/assets/6478b0b7-db13-455f-adbf-381851ecd7bc)
+
+
