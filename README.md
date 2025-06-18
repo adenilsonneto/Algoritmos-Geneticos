@@ -4,10 +4,12 @@ Seminário sobre os Algoritmos Genéticos
 Problema: Criar uma função para achar o numero mais próximo de 7 entro os números 0 e 15
 
 A funçao "fitness" mede o quão o número esta próximo de 7
+
 ![image](https://github.com/user-attachments/assets/f18347cd-cb34-4ce2-955e-2c19a142bc6f)
 
 
 A função "gerar_individuo" gera indivíduos aleatórios entre 0 e 15
+
 ![image](https://github.com/user-attachments/assets/2177fb62-77af-459b-bfe9-f5a0eff9c80a)
 
 
