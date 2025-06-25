@@ -44,8 +44,9 @@ Exemplo de Resutlado final
 
 ![image](https://github.com/user-attachments/assets/0545becf-c3c4-4c63-91b2-8de811b6edab)
 
-Plot de Grafo para exemplo aleatório utilizando o Graphviz Online
+Plot de Grafo para exemplo aleatório
 
-![image](https://github.com/user-attachments/assets/6478b0b7-db13-455f-adbf-381851ecd7bc)
+![image](https://github.com/user-attachments/assets/77edc410-31cb-49ff-9615-2b1f29b99189)
+
 
 
